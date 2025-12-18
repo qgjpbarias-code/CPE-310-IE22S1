@@ -17,19 +17,19 @@ I am a lazy person sometimes (* ´ ﹃｀*)
   <img src="gamer-boy.gif" width="300" alt="Gamer Boy GIF"/>
 </p>
 
-# 🎮 Hi, I’m Gabriel 👋
+# 🎮 Hi, I’m Gabriel 👋 And my Gamer/Coach name is Dough 🍞🍞🍞🍞🍞🍞
 
 > *Student • Gamer • CODM Coach • Aspiring Developer*
 
 ---
 
 ## 🌸 About Me
-- 🎓 Student passionate about **technology & programming**
+- 🎓 Student not actually passionate but willing to learn about **technology & programming**
 - 🎮 **Call of Duty: Mobile (CODM) coach**
 - 🧠 Coaching **basic and technical rotations**
 - 🌱 Currently learning **Python, Git, and GitHub**
-- ✨ Inspired by **anime aesthetics, clean UI, and competitive gaming**
-- 🎯 Goal: grow as a **developer with esports-level game sense**
+- ✨ Inspired by **competitive gaming**
+- 🎯 Goal: grow with a mindset of a **developer with esports-level game sense**
 
 ---
 
@@ -63,7 +63,6 @@ I am a lazy person sometimes (* ´ ﹃｀*)
 - 🔹 Coaching CODM players (rotations & fundamentals)
 - 🔹 Learning Python fundamentals
 - 🔹 Practicing Git & GitHub workflows
-- 🔹 Building small personal projects
 - 🔹 Improving analytical & strategic thinking
 
 ---
